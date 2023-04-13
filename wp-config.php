@@ -19,9 +19,9 @@
  */
 
 // ** Database settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
-define( ‘FS_METHOD’, ‘direct’ );
+define( 'FS_METHOD', 'direct' );
 
+/** The name of the database for WordPress */
 define( 'DB_NAME', 'tmop' );
 
 /** Database username */
