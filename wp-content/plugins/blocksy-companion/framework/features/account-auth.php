@@ -261,7 +261,7 @@ class AccountAuth {
 					sprintf(
 						/* translators: 1: link open 2: link close */
 						__(
-							'Registration complete. Please check your email, then visit the %1$sslogin page%2$s.',
+							'Registration complete. Please check your email, then visit the %1$slogin page%2$s.',
 							'blocksy-companion'
 						),
 						'<a href="#" data-login="yes">',
